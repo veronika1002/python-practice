@@ -5,12 +5,12 @@
 
 ## Список проектов
 
-- [Hangman (Виселица)](hangman_game/README.md) — классическая игра "Виселица".  
-- [Magic Ball (Магический шар)](magic_ball/README.md) — программа отвечает на вопросы случайным образом.  
-- [Number Base Converter (Калькулятор систем счисления)](number_base_converter/README.md) — перевод чисел между 2, 8, 10, 16 системами.  
-- [Guess Number (Угадай число)](guess_number/README.md) — игра, где нужно угадать число в заданном диапазоне.  
-- [Caesar Cipher (Шифр Цезаря)](caesar_cipher/README.md) — шифрование и дешифрование текста со сдвигом.  
-- [Password Generator (Генератор паролей)](password_generator/README.md) — генерация случайных паролей по выбранным критериям.
+- [Hangman (Виселица)](hangman_game) — классическая игра "Виселица".  
+- [Magic Ball (Магический шар)](magic_ball) — программа отвечает на вопросы случайным образом.  
+- [Number Base Converter (Калькулятор систем счисления)](number_base_converter) — перевод чисел между 2, 8, 10, 16 системами.  
+- [Guess Number (Угадай число)](guess_number) — игра, где нужно угадать число в заданном диапазоне.  
+- [Caesar Cipher (Шифр Цезаря)](caesar_cipher) — шифрование и дешифрование текста со сдвигом.  
+- [Password Generator (Генератор паролей)](password_generator — генерация случайных паролей по выбранным критериям.
 
 ## Как использовать
 
